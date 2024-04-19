@@ -30,7 +30,7 @@ const Navbar = () => {
                     </div>
                 </nav>
             </nav>
-            <Add/>
+            
     </div>
   )
 }
